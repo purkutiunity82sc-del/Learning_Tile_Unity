@@ -16,7 +16,7 @@
 
 
 ### What actually i want to happen ###
-1 - Since Script is working for Player (sortingLayer = 20) - still Player is colliding with other boxCollider
+1 - Since Script is working for Player (sortingLayer = 20) - still Player is colliding with other boxCollider (Specially WallBoarder)
 
 
 Thanks in Advance (Appericated)
